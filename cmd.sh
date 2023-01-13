@@ -6,6 +6,6 @@ date > log.txt
 
 git add log.txt
 
-git commit -am 'update'
+git commit -m 'update'
 
 git push
